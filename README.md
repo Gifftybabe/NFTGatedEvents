@@ -42,3 +42,17 @@ This contract enables:
 2. Users can mint NFTs by sending the required mint price to the contract.
 3. Deploy the `NFTGatedEventManager` contract and create events gated by the NFT minted earlier.
 4. Users can register for events if they meet the NFT ownership requirement and the event has space available.
+
+## Deployment
+
+The smart contract has been deployed on the Lisk Sepolia Testnet on the following contract address:
+
+**MyNFT:** `0x880AB717525CEC18A4301d97D14B07B9363d0500`
+**NFTGatedEventManager":** `0xC238D6A96eDee72927381954c79F2588F185BD81`
+
+
+
+
+
+
+  
